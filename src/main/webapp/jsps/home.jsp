@@ -14,12 +14,12 @@
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
+		<img src="images/test.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
 		Test Software Solutions, 
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:devopstrainingblr@gmail.com">Mail to Test Technologies</a>
 	</span>
 </div>
 <hr>
